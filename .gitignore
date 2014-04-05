@@ -1,0 +1,12 @@
+__pycache__/
+/MANIFEST
+/dist
+/.settings
+*.txt
+*.snt
+*.classes*
+*.vcb*
+*final
+*.cooc
+*.g
+*.p
